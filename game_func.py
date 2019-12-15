@@ -1,6 +1,7 @@
 import pygame as pg
 from constants import *
 
+pg.init()
 
 # to return the sign of value
 
