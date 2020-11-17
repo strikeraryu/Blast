@@ -15,5 +15,8 @@ open blast.py to run game
 If you don't want to install python and pygame you can run the game by just<br> extracting the blast-showdown_battle.zip and 
 running the blast.exe file in windows pc
 <br><br>
+
+check out this game on itch: https://striker-7.itch.io/blast 
+
 If any problem feel free to contact me
 striker.aryu56@gmail.com
